@@ -17,7 +17,7 @@
     </head>
     <body>
 
-        Đây là web truyện sách
+        Đây là web truyện sách laravel
 
     </body>
 </html>
